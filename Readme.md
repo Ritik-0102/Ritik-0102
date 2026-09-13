@@ -112,6 +112,14 @@ I’m **Ritik Rana**, a B.Tech Computer Science & Engineering student focused on
   <img src="https://raw.githubusercontent.com/Ritik-0102/Ritik-0102/output/activity-graph.svg" width="100%" alt="Ritik's coding activity graph" />
 </p>
 
+## `> leetcode_dashboard`
+
+<p align="center">
+  <a href="https://leetcode.com/u/Ritik-Rana/">
+    <img src="https://leetcard.jacoblin.cool/Ritik-Rana?theme=dark&font=JetBrains%20Mono" alt="Ritik Rana's LeetCode statistics" />
+  </a>
+</p>
+
 ## `> contribution_dimension`
 
 <p align="center">
