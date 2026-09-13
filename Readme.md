@@ -109,7 +109,7 @@ I’m **Ritik Rana**, a B.Tech Computer Science & Engineering student focused on
 ## 📈 My Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritik-0102&bg_color=020617&color=67e8f9&line=8b5cf6&point=c4b5fd&area=true&hide_border=true&custom_title=Ritik%27s%20Coding%20Activity" width="100%" alt="Ritik's coding activity graph" />
+  <img src="https://raw.githubusercontent.com/Ritik-0102/Ritik-0102/output/activity-graph.svg" width="100%" alt="Ritik's coding activity graph" />
 </p>
 
 ## `> contribution_dimension`
