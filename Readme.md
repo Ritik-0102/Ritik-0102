@@ -168,9 +168,10 @@ I’m growing from student to engineer by making the work tangible: one feature,
 
 <p align="center">
   <a href="https://github.com/Ritik-0102"><img src="https://img.shields.io/badge/GitHub-Ritik--0102-0b1220?style=for-the-badge&logo=github&logoColor=67e8f9" alt="GitHub profile" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-ADD%20YOUR%20LINK-0b1220?style=for-the-badge&logo=linkedin&logoColor=67e8f9" alt="Add your LinkedIn URL" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-ADD%20YOUR%20EMAIL-0b1220?style=for-the-badge&logo=gmail&logoColor=c4b5fd" alt="Add your email address" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-COMING%20SOON-0b1220?style=for-the-badge&logo=googlechrome&logoColor=c4b5fd" alt="Add your portfolio URL" /></a>
+  <a href="https://www.linkedin.com/in/ritik--rana/"><img src="https://img.shields.io/badge/LinkedIn-Ritik%20Rana-0b1220?style=for-the-badge&logo=linkedin&logoColor=67e8f9" alt="Ritik Rana on LinkedIn" /></a>
+  <a href="mailto:ritikrana.dev@gmail.com"><img src="https://img.shields.io/badge/Email-ritikrana.dev%40gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=c4b5fd" alt="Email Ritik Rana" /></a>
+  <a href="https://leetcode.com/u/Ritik-Rana/"><img src="https://img.shields.io/badge/LeetCode-Ritik--Rana-0b1220?style=for-the-badge&logo=leetcode&logoColor=facc15" alt="Ritik Rana on LeetCode" /></a>
+  <a href="https://ritikrana.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ritikrana.netlify.app-0b1220?style=for-the-badge&logo=googlechrome&logoColor=c4b5fd" alt="Ritik Rana portfolio" /></a>
 </p>
 
 <p align="center"><i>Open to connecting with builders, learners, and people solving interesting problems.</i></p>
