@@ -1,0 +1,36 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "15 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v5
+
+      - name: Generate snake animations
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile-snake/github-contribution-grid-snake.svg
+            profile-snake/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated snakes when changed
+        run: |
+          if [ -n "$(git status --porcelain -- profile-snake)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add profile-snake
+            git commit -m "chore: update contribution snake"
+            git push
+          else
+            echo "No contribution snake changes to commit."
+          fi
