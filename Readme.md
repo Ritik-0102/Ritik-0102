@@ -23,9 +23,9 @@
 
 ## `> about_me.exe`
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" alt="Coding animation" />
+</p>
 
 I’m **Ritik Rana**, a B.Tech Computer Science & Engineering student focused on turning curious ideas into practical software.
 
@@ -36,13 +36,6 @@ I’m **Ritik Rana**, a B.Tech Computer Science & Engineering student focused on
 - Interested in cybersecurity and the habits behind building more secure applications.
 
 > **My coding philosophy:** start with a real problem, make the smallest useful version, learn from every bug, and keep iterating until it earns its place.
-
-    </td>
-    <td width="38%" align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" alt="Coding animation" />
-    </td>
-  </tr>
-</table>
 
 ## `> engineering_loop`
 
@@ -98,7 +91,7 @@ I’m **Ritik Rana**, a B.Tech Computer Science & Engineering student focused on
 ## `> github_command_center`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritik-0102&show_icons=true&hide_border=true&bg_color=020617&title_color=67e8f9&icon_color=8b5cf6&text_color=cbd5e1&ring_color=67e8f9" height="165" alt="Ritik's GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ritik-0102&theme=tokyonight" height="165" alt="Ritik's GitHub statistics" />
   <img src="https://streak-stats.demolab.com?user=Ritik-0102&theme=tokyonight-duo&hide_border=true&background=020617&ring=67E8F9&fire=8B5CF6&currStreakLabel=C4B5FD" height="165" alt="Ritik's GitHub streak" />
 </p>
 
@@ -125,11 +118,13 @@ I’m **Ritik Rana**, a B.Tech Computer Science & Engineering student focused on
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 </p>
 
+<!-- Contribution snake is intentionally hidden for now. Restore this block when ready to display it.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-snake/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="profile-snake/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake animation" src="profile-snake/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
+-->
 
 ## 📡 Developer Radar
 
